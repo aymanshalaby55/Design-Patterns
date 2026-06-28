@@ -1,0 +1,1 @@
+// This file is included as per schema requirements, though the primary changes for the Python Strategy Pattern are in Python files not permitted by the `codeChanges` schema constraint. The implementation details are described in the PR description and unit tests.
